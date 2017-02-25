@@ -49,13 +49,7 @@
 		    <groupId>com.h2database</groupId>
 		    <artifactId>h2</artifactId>
 		</dependency>
-
-
-		<groupId>br.com.listadetarefas</groupId>
-		<artifactId>ListaDeTarefas</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-		<packaging>jar</packaging>
-
+	
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
